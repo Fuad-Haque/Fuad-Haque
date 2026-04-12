@@ -1,4 +1,4 @@
-# Fuad Haque — Python Backend Engineer
+# Fuad Haque — Asynchronous Python Backend Engineer
 
 I build FastAPI backends and automation systems for startups.
 
