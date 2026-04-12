@@ -17,5 +17,5 @@ Python · FastAPI · Pydantic · JWT Auth · Async · Railway · Render · GitHu
 - [Task Automation API](https://task-automation-api-i90w.onrender.com/docs) — Background task processing with status polling and progress tracking
 
 ## Contact
-fuadhaque66@gmail.com |
+fuadhaque.dev@gmail.com 
 ```
