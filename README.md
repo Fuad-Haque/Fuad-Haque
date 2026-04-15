@@ -1,4 +1,4 @@
-# Fuad Haque — Asynchronous Python Backend Engineer
+# Fuad Haque — Python Backend Engineer; specialized in Asynchronous Programming, Concurrency and Applications Programming Interface Engineering
 
 I build FastAPI backends and automation systems for startups.
 
