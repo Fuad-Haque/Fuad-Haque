@@ -40,6 +40,7 @@ I engineer production-grade FastAPI systems — async backends, webhook pipeline
 **DevOps**
 - Docker
 - Railway
+- Render
 - GitHub Actions
 
 **Testing**
