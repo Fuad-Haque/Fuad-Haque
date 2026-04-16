@@ -3,13 +3,45 @@
 I build FastAPI backends and automation systems for startups.
 
 ## What I Build
-- REST APIs and backend services
+- Production REST APIs
 - Webhook integrations (Stripe, GitHub, Shopify)
-- Task automation and background processing systems
-- URL shorteners, data processors, custom integrations
+- Authentication systems (JWT, OAuth2)
+- Task automation APIs and background processing pipelines
+- Third-party service integrations
 
 ## Tech Stack
-Python · FastAPI · Pydantic · JWT Auth · Async · Railway · Render · GitHub
+**Languages**
+- Python 3.11+
+
+**Frameworks & API**
+- FastAPI
+- Starlette
+- Pydantic v2
+
+**Async & Concurrency**
+- asyncio
+- httpx
+- aiofiles
+- Celery
+
+**Databases & Caching**
+- PostgreSQL
+- SQLAlchemy (async)
+- Alembic
+- Redis
+
+**Auth & Security**
+- JWT
+- OAuth2
+
+**DevOps**
+- Docker
+- Railway
+- GitHub Actions
+
+**Testing**
+- Pytest
+- pytest-asyncio
 
 ## Live Projects
 - [URL Shortener API](https://web-production-5bd50.up.railway.app/docs) — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
