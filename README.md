@@ -13,12 +13,7 @@ I engineer production-grade FastAPI systems — async backends, webhook pipeline
 
 
 ## Tech Stack
-Python 3.11+ · FastAPI · Starlette · Pydantic v2
-asyncio · httpx · aiofiles · Celery · Redis
-PostgreSQL · SQLAlchemy (async) · Alembic
-JWT · OAuth2
-Docker · Railway · Render · GitHub Actions
-Pytest · pytest-asyncio
+Python 3.11+ · FastAPI · Starlette · Pydantic v2 · asyncio · httpx · aiofiles · Celery · Redis · PostgreSQL · SQLAlchemy (async) · Alembic · JWT · OAuth2 · Railway · Render · GitHub Actions · Pytest · pytest-asyncio
 
 
 ## Live Projects
