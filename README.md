@@ -1,6 +1,8 @@
 # Fuad Haque — Python Backend Engineer; specialized in Asynchronous Programming, Concurrency and Applications Programming Interface Engineering
 
-I build FastAPI backends and automation systems for startups.
+
+I engineer production-grade FastAPI systems — async backends, webhook pipelines, and task automation for startups.
+
 
 ## What I Build
 - Production REST APIs
@@ -8,6 +10,7 @@ I build FastAPI backends and automation systems for startups.
 - Authentication systems (JWT, OAuth2)
 - Task automation APIs and background processing pipelines
 - Third-party service integrations
+
 
 ## Tech Stack
 **Languages**
@@ -43,10 +46,12 @@ I build FastAPI backends and automation systems for startups.
 - Pytest
 - pytest-asyncio
 
+
 ## Live Projects
 - [URL Shortener API](https://web-production-5bd50.up.railway.app/docs) — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
 - [Webhook Handler](YOUR_RAILWAY_WEBHOOK_URL/docs) — Stripe/GitHub/Shopify event processor with HMAC verification and idempotency
 - [Task Automation API](https://task-automation-api-i90w.onrender.com/docs) — Background task processing with status polling and progress tracking
+
 
 ## Contact
 fuadhaque.dev@gmail.com 
