@@ -144,7 +144,7 @@ Available for international clients via Upwork or direct.
 ---
 
 ## Live Projects
-- **[Personal Website](https://fuad-portfolio-website.vercel.app/)**
+- **[Personal Website](https://fuad-portfolio-website.vercel.app/)** — Full-stack portfolio with custom cursor, motion design, and live API integrations. Built from scratch using the latest technogical methods and design pattern I call **"The Obsidian Scholar"**
 - **[URL Shortener API](https://web-production-5bd50.up.railway.app/docs)** — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
 - **[Webhook Handler](https://webhook-handler-production-99e2.up.railway.app/docs )** — Stripe/GitHub/Shopify event processor with HMAC verification and idempotency
 - **[Task Automation API](https://task-automation-api-i90w.onrender.com/docs)** — Background task processing with status polling and progress tracking
@@ -153,4 +153,5 @@ Available for international clients via Upwork or direct.
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuadhaque.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=flat-square&logo=github)](https://github.com/Fuad-Haque)
+[![GitHub](https://img.shields.io/badge/GitHub-Fuad-Haque-181717?style=flat-square&logo=github)](https://github.com/Fuad-Haque)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fuad--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://fuad-portfolio-website.vercel.app/)
