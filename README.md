@@ -1,18 +1,19 @@
 # Fuad Haque — Python Backend Engineer; specialized in Asynchronous Programming, Concurrency and API Engineering
 
-
 I engineer production-grade FastAPI systems — async backends, webhook pipelines, and task automation for startups.
 
+---
 
-## What I Build
+## 🎯 What I Build
 - Production REST APIs
 - Webhook integrations (Stripe, GitHub, Shopify)
 - Authentication systems (JWT, OAuth2)
 - Task automation APIs and background processing pipelines
 - Third-party service integrations
 
+---
 
-## Tech Stack
+## 🛠️ Tech Stack
 Python 3.11+ · FastAPI · Starlette · Pydantic v2 · asyncio · httpx · aiofiles · Celery · Redis · PostgreSQL · SQLAlchemy (async) · Alembic · JWT · OAuth2 · Railway · Render · GitHub Actions · Pytest · pytest-asyncio
 
 <div align="center">
@@ -52,13 +53,27 @@ Python 3.11+ · FastAPI · Starlette · Pydantic v2 · asyncio · httpx · aiofi
 
 </div>
 
+---
 
-## Live Projects
-- [URL Shortener API](https://web-production-5bd50.up.railway.app/docs) — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
-- [Webhook Handler](YOUR_RAILWAY_WEBHOOK_URL/docs) — Stripe/GitHub/Shopify event processor with HMAC verification and idempotency
-- [Task Automation API](https://task-automation-api-i90w.onrender.com/docs) — Background task processing with status polling and progress tracking
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDAE" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0D1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
+</div>
 
-## Contact
-fuadhaque.dev@gmail.com 
-```
+---
+
+## 🚀 Live Projects
+- **[URL Shortener API](https://web-production-5bd50.up.railway.app/docs)** — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
+- **[Webhook Handler](YOUR_WEBHOOK_URL/docs)** — Stripe/GitHub/Shopify event processor with HMAC verification and idempotency
+- **[Task Automation API](https://task-automation-api-i90w.onrender.com/docs)** — Background task processing with status polling and progress tracking
+
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuadhaque.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
