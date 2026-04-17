@@ -1,7 +1,4 @@
-# Fuad Haque — Python Backend Engineer; specialized in Asynchronous Programming, Concurrency and API Engineering
-
-I engineer production-grade FastAPI systems — async backends, webhook pipelines, and task automation for startups.
-
+# Fuad Haque — Software Engineer
 
 ---
 
@@ -26,6 +23,61 @@ I engineer production-grade FastAPI systems — async backends, webhook pipeline
 
 Open to fixed-scope contracts and ongoing retainers.
 Available for international clients via Upwork or direct.
+
+---
+
+## Specializations
+
+### Backend Engineering
+- Async request handling (non-blocking I/O with async/await across endpoints)
+- JWT authentication flow (token generation, hashing, expiry, and protected route middleware)
+- OAuth2 password flow implementation (scopes, bearer tokens, dependency injection)
+- HMAC signature verification (validating Stripe/GitHub/Shopify webhook payloads)
+- Idempotency pattern (preventing duplicate processing on retried webhook events)
+- Background task architecture (offloading work from the request cycle)
+- Status polling design (task state machine with client-side progress tracking)
+- Click tracking and link expiry (state management across CRUD operations)
+- Pydantic v2 schema design (request validation, response models, custom validators)
+
+### Frontend Engineering
+- Component architecture (splitting UI into reusable, typed components)
+- Client vs server component model (knowing when to use "use client")
+- Z-index and layering management at scale
+- Viewport-aware drag constraints
+- Keyboard event handling globally (keydown listeners)
+- SSR-safe browser API usage (wrapping window/document in useEffect)
+- Responsive design without a framework (pure breakpoint logic)
+- Performance-conscious animation (RAF-based cursor lerping)
+
+### Design Engineering
+- Design-to-code translation (converting a spec into pixel-perfect components)
+- Typography pairing (serif vs monospace contrast)
+- Color system design with CSS variables
+- Micro-interaction design (cursor states, hover shifts, entry animations)
+- Noise/grain texture implementation via SVG filters
+- Glassmorphism (backdrop-blur + low-opacity borders)
+- Spotlight/lighting effects with radial gradients
+
+### API Design
+- REST endpoint structuring (resource-based routing, HTTP verb semantics)
+- Dependency injection with FastAPI (Depends() for auth, DB sessions, shared logic)
+- OpenAPI documentation (auto-generated Swagger UI from type annotations)
+- Error response standardization (consistent shape across all failure modes)
+
+### Database
+- Async SQLAlchemy ORM (non-blocking DB queries in a FastAPI context)
+- Alembic migration workflow (schema versioning without manual SQL)
+- PostgreSQL in production (provisioned and connected on Railway/Render)
+
+### DevOps & Deployment
+- Git branching and pushing to remote
+- Vercel deployment pipeline (push → auto-deploy)
+- Railway deployment pipeline (environment variables, service provisioning, live logs)
+- Render deployment (cold start behavior, free tier limitations)
+- Multi-service production management (three independent APIs, each live)
+- npm dependency management
+- Local dev server workflow
+- Pytest async test suites (testing endpoints that depend on DB state and auth)
 
 ---
 
@@ -78,64 +130,6 @@ Available for international clients via Upwork or direct.
 </div>
 
 ---
-
-## Specializations
-
-### Backend Engineering
--Async request handling (non-blocking I/O with async/await across endpoints)
-JWT authentication flow (token generation, hashing, expiry, and protected route middleware)
-OAuth2 password flow implementation (scopes, bearer tokens, dependency injection)
-HMAC signature verification (validating Stripe/GitHub/Shopify webhook payloads)
-Idempotency pattern (preventing duplicate processing on retried webhook events)
-Background task architecture (offloading work from the request cycle)
-Status polling design (task state machine with client-side progress tracking)
-Click tracking and link expiry (state management across CRUD operations)
-Pydantic v2 schema design (request validation, response models, custom validators)
-
-Frontend Engineering
-
-Component architecture (splitting UI into reusable, typed components)
-Client vs server component model (knowing when to use "use client")
-Z-index and layering management at scale
-Viewport-aware drag constraints
-Keyboard event handling globally (keydown listeners)
-SSR-safe browser API usage (wrapping window/document in useEffect)
-Responsive design without a framework (pure breakpoint logic)
-Performance-conscious animation (RAF-based cursor lerping)
-
-Design Engineering
-
-Design-to-code translation (converting a spec into pixel-perfect components)
-Typography pairing (serif vs monospace contrast)
-Color system design with CSS variables
-Micro-interaction design (cursor states, hover shifts, entry animations)
-Noise/grain texture implementation via SVG filters
-Glassmorphism (backdrop-blur + low-opacity borders)
-Spotlight/lighting effects with radial gradients
-
-API Design
-
-REST endpoint structuring (resource-based routing, HTTP verb semantics)
-Dependency injection with FastAPI (Depends() for auth, DB sessions, shared logic)
-OpenAPI documentation (auto-generated Swagger UI from type annotations)
-Error response standardization (consistent shape across all failure modes)
-
-Database
-
-Async SQLAlchemy ORM (non-blocking DB queries in a FastAPI context)
-Alembic migration workflow (schema versioning without manual SQL)
-PostgreSQL in production (provisioned and connected on Railway/Render)
-
-DevOps & Deployment
-
-Git branching and pushing to remote
-Vercel deployment pipeline (push → auto-deploy)
-Railway deployment pipeline (environment variables, service provisioning, live logs)
-Render deployment (cold start behavior, free tier limitations)
-Multi-service production management (three independent APIs, each live)
-npm dependency management
-Local dev server workflow
-Pytest async test suites (testing endpoints that depend on DB state and auth)
 
 ## GitHub Stats
 <div align="center">
