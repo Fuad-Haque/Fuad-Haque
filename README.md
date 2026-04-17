@@ -1,5 +1,7 @@
 # Fuad Haque — Software Engineer
 
+I build production FastAPI backends and the Next.js interfaces that make them shippable.
+
 ---
 
 ## Services
