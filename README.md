@@ -43,7 +43,7 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 ---
 
-                                      ## Technologies
+## Technologies
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 ---
 
-## Stats
+## Statistics
 
 <div align="center">
 
