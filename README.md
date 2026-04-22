@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+FastAPI+%C2%B7+Next.js;Webhook+Pipelines+%C2%B7+Task+Automation+APIs;Semantic+Search+%C2%B7+Vector+Embeddings+%C2%B7+Qdrant;I+build+backends+and+the+UIs+that+ship+them.;Tilagorh%2C+Sylhet+%E2%86%92+Western+Markets+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+FastAPI+%C2%B7+Next.js;Webhook+Pipelines+%C2%B7+Task+Automation+APIs;Semantic+Search+%C2%B7+Vector+Embeddings+%C2%B7+Qdrant;I+build+backends+and+the+UIs+that+ship+them.)](https://git.io/typing-svg)
 
 </div>
 
