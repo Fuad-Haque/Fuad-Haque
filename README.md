@@ -71,8 +71,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                       SERVICES                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>💼 Services — What I Build for Clients</b></summary>
+💼 Services — What I Build for Clients</b></summary>
 
 <br/>
 
