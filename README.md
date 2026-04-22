@@ -32,18 +32,6 @@
 I build **production FastAPI backends** and the **Next.js interfaces that make them shippable.**<br/>
 REST APIs · Webhook integrations · Async task queues · AI-powered semantic search — deployed, documented, and delivered early.
 
-<div align="center">
-  <a href="mailto:fuadhaque.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://fuad-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Fuad-Haque">
-    <img src="https://img.shields.io/github/followers/Fuad-Haque?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  </a>
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -97,7 +85,17 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 | **Full-Stack MVP** | FastAPI + Next.js · both deployed · one live URL on delivery 
 | **API Integration** | OpenAI · Stripe · Resend · Twilio · clean service layer
 
-→ **[Book a call](https://cal.com/fuadhaque)** · [fuadhaque.dev@gmail.com](mailto:fuadhaque.dev@gmail.com)
+<div align="center">
+  <a href="mailto:fuadhaque.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fuad-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://cal.com/fuad-haque/30min?user=fuad-haque&layout=mobile">
+    <img src="https://img.shields.io/badge/Book_a_Call-30_Minutes-292929?style=for-the-badge&logo=calendly&logoColor=white" />
+  </a>
+</div>
 
 </details>
 
