@@ -173,14 +173,6 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fuad-Haque&column=4&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ACTIVITY GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
