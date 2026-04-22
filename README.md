@@ -72,6 +72,14 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                      LIVE PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fuad-Haque/Fuad-Haque/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fuad-Haque/Fuad-Haque/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fuad-Haque/Fuad-Haque/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ## 🚀 Live Projects
 
 | Project | What it does | Stack | Backend | Frontend |
