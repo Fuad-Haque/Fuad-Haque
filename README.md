@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Product+Engineer;FastAPI+%7C+Next.js+%7C+TypeScript;I+build+complete+AI-powered+products.)](https://git.io/typing-svg)
 
-**`fuadhaque.dev@gmail.com`** · [fuadhaque.com](https://fuadhaque.com)
+**`fuadhaque.dev@gmail.com`** 
 
 </div>
 
