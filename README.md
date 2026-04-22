@@ -173,6 +173,16 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB TROPHIES                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fuad-Haque&theme=onedark&column=8&margin-w=8&margin-h=8&no-frame=false&no-bg=false&rank=-C,-B" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ACTIVITY GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -183,7 +193,6 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 </div>
 
 ---
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    DEV JOKE / QUOTE                           -->
