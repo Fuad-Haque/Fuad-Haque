@@ -106,7 +106,6 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 
 ## 🛠️ Tech Stack
 
-<br/>
 <div align="center">
 
 ### Core Backend & Async
