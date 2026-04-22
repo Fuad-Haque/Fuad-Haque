@@ -56,6 +56,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👾 Live Projects
+
 | Project | What it does | Stack | Backend | Frontend |
 |---------|-------------|-------|---------|---------|
 | 🎯 **Portfolio** | Full-stack site · custom cursor · motion · live API | Next.js · FastAPI | [API ↗](https://fuad-portfolio-website.vercel.app/) | [Site ↗](https://fuadhaque.com) |
