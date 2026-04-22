@@ -43,7 +43,7 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 ---
 
-## Tech Stack
+                                      ## Technologies
 
 <div align="center">
 
