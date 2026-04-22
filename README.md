@@ -32,10 +32,16 @@
 I build **production FastAPI backends** and the **Next.js interfaces that make them shippable.**<br/>
 REST APIs · Webhook integrations · Async task queues · AI-powered semantic search — deployed, documented, and delivered early.
 
-<br/>
-[![Email](https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuadhaque.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fuad-portfolio-website.vercel.app/)
-
+<div align="center">
+  <a href="mailto:fuadhaque.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fuad-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fuad-Haque">
+    <img src="https://img.shields.io/github/followers/Fuad-Haque?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+  </a>
 </div>
 
 ---
