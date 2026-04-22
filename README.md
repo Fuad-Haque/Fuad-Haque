@@ -46,6 +46,49 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 ## Tech Stack
 
 <div align="center">
+  
+Core Backend & Async
+https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white
+https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/httpx-0F2E3D?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/aiofiles-FFD43B?style=for-the-badge&logo=python&logoColor=black
+
+Frontend
+https://img.shields.io/badge/Next.js_14/16-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white
+https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white
+
+Data & Storage
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/SQLAlchemy-async-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white
+https://img.shields.io/badge/Alembic-306998?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white
+
+Real‑time & Communication
+https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white
+https://img.shields.io/badge/SSE-Streaming-6C63FF?style=for-the-badge&logo=apache&logoColor=white
+https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=mail&logoColor=white
+
+Auth & Security
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white
+https://img.shields.io/badge/rate--limiting-slowapi-3C3C3D?style=for-the-badge
+
+Deployment & Tooling
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
+https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+</div>
+
+<div align="center">
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -150,27 +193,4 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fuad-Haque&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDAE" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0D1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
-</div>
-
----
-
-## Live Projects
-- **[Personal Website](https://fuad-portfolio-website.vercel.app/)** — Full-stack portfolio with custom cursor, motion design, and live API integrations. Built from scratch using the latest technogical methods and design pattern I call **"The Obsidian Scholar"**
-- **[URL Shortener API](https://web-production-5bd50.up.railway.app/docs)** — Full CRUD URL shortener with JWT auth, click tracking, and link expiry
-- **[Webhook Handler](https://webhook-handler-production-99e2.up.railway.app/docs )** — Stripe/GitHub/Shopify event processor with HMAC verification and idempotency
-- **[Task Automation API](https://task-automation-api-i90w.onrender.com/docs)** — Background task processing with status polling and progress tracking
-
----
-
-## Contact
-[![Email](https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuadhaque.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Fuad-Haque-181717?style=flat-square&logo=github)](https://github.com/Fuad-Haque)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fuad--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://fuad-portfolio-website.vercel.app/)
