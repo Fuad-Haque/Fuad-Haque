@@ -75,8 +75,8 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 
 <br/>
 
-| Service | What You Get | Price |
-|---------|-------------|-------|
+| Service | What You Get 
+|---------|-------------|
 | **REST API Build** | FastAPI backend · CRUD · JWT auth · deployed `/docs` 
 | **Webhook Integration** | Stripe / GitHub / Shopify · HMAC · idempotency · retry 
 | **Task Automation API** | Async queue · status polling · progress tracking · Redis 
