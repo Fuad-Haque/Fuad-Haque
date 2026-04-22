@@ -15,19 +15,19 @@ real-time dashboards, and semantic search systems, end to end.
 
 ## Services
 
-**Backend Systems**
+**Backend Systems:**
 Production REST APIs · Webhook pipelines (Stripe, GitHub, Shopify) · Background task queues · JWT auth flows · Rate limiting · Third-party integrations
 
-**Full-Stack Product Builds**
+**Full-Stack Product Builds:**
 Take any API and ship a complete product around it — auth, dashboard, admin panel, live demo
 
-**Real-Time Interfaces**
+**Real-Time Interfaces:**
 WebSocket + SSE dashboards · Job queue UIs · Live metrics with Framer Motion animations
 
-**Semantic & Hybrid Search**
+**Semantic & Hybrid Search:**
 Document ingestion + chunking + embedding pipelines · Qdrant vector search · PostgreSQL FTS · Reciprocal Rank Fusion
 
-**Developer Tooling**
+**Developer Tooling:**
 Webhook inspectors · URL shorteners · Task schedulers — tools devs actually use
 
 ---
