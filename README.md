@@ -43,59 +43,6 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 ---
 
-
-<div align="center">
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=mail&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-Streaming-6C63FF?style=for-the-badge&logo=apache&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-async-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=ffffff" />
-
-<img src="https://streak-stats.demolab.com?user=Fuad-Haque&theme=transparent&hide_border=true&background=0A0A0F&stroke=6C63FF&ring=6C63FF&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=ffffff&dates=888888" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fuadhaque.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Fuad--Haque-181717?style=flat-square&logo=github)](https://github.com/Fuad-Haque)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://fuadhaque.com)
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -142,56 +89,25 @@ Webhook inspectors · URL shorteners · Task schedulers — tools devs actually 
 
 </div>
 
+---
 
-
-## Tech Stack
+## Stats
 
 <div align="center">
 
-### Core Backend
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Starlette](https://img.shields.io/badge/Starlette-2B5B84?style=for-the-badge&logo=starlette&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=ffffff" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=ffffff" />
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### HTTP & Async
-![httpx](https://img.shields.io/badge/httpx-0F2E3D?style=for-the-badge&logo=python&logoColor=white)
-![aiofiles](https://img.shields.io/badge/aiofiles-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-async-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-306998?style=for-the-badge&logo=python&logoColor=white)
-
-### Auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
-
-### Deployment & CI
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Testing
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![pytest-asyncio](https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=Fuad-Haque&theme=transparent&hide_border=true&background=0A0A0F&stroke=6C63FF&ring=6C63FF&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 ---
+
+
+
+
+
+
 
 
