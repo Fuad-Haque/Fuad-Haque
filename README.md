@@ -55,7 +55,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                      LIVE PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Live Projects
+## 🎓 Live Projects
 
 | Project | What it does | Stack | Backend | Frontend |
 |---------|-------------|-------|---------|---------|
@@ -71,7 +71,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                       SERVICES                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-💼 Services — What I Build for Clients</b></summary>
+## 💼 Services — What I Build for Clients
 
 <br/>
 
@@ -104,8 +104,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                      TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<details open>
-<summary><b>🛠️ Tech Stack</b></summary>
+## 🛠️ Tech Stack
 
 <br/>
 <div align="center">
