@@ -177,9 +177,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fuad-Haque&theme=onedark&column=8&margin-w=8&margin-h=8&no-frame=false&no-bg=false&rank=-C,-B" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fuad-Haque&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
