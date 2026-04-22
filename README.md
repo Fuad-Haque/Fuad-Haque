@@ -1,28 +1,34 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;FastAPI+%7C+Next.js+%7C+PostgreSQL;I+build+backends+that+ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Product+Engineer;FastAPI+%7C+Next.js+%7C+TypeScript;I+build+complete+AI-powered+products.)](https://git.io/typing-svg)
 
-**`fuadhaque.dev@gmail.com`** · [fuadhaque.com](https://fuadhaque.com) · [LinkedIn](https://linkedin.com/in/fuad-haque)
+**`fuadhaque.dev@gmail.com`** · [fuadhaque.com](https://fuadhaque.com)
 
 </div>
 
 ---
 
-I build production FastAPI backends and the Next.js interfaces that make them shippable.  
-Open to fixed-scope contracts and ongoing retainers. Available internationally via Upwork or direct.
+I build complete AI products — FastAPI backends, Next.js frontends,  
+real-time dashboards, and semantic search systems, end to end.
 
 ---
 
 ## Services
 
 **Backend Systems**
-Production REST APIs · Webhook pipelines (Stripe, GitHub, Shopify) · Background task queues · JWT/OAuth2 auth flows · Third-party integrations
+Production REST APIs · Webhook pipelines (Stripe, GitHub, Shopify) · Background task queues · JWT auth flows · Rate limiting · Third-party integrations
 
-**Full-Stack Builds**
-Portfolio and SaaS sites · Interactive microsites with Framer Motion · Design system implementation from Figma to Next.js
+**Full-Stack Product Builds**
+Take any API and ship a complete product around it — auth, dashboard, admin panel, live demo
 
-**Frontend for Existing Backends**
-UI layer for already-deployed APIs · Auth flows · Live data dashboards · Component libraries
+**Real-Time Interfaces**
+WebSocket + SSE dashboards · Job queue UIs · Live metrics with Framer Motion animations
+
+**Semantic & Hybrid Search**
+Document ingestion + chunking + embedding pipelines · Qdrant vector search · PostgreSQL FTS · Reciprocal Rank Fusion
+
+**Developer Tooling**
+Webhook inspectors · URL shorteners · Task schedulers — tools devs actually use
 
 ---
 
@@ -40,6 +46,13 @@ UI layer for already-deployed APIs · Auth flows · Live data dashboards · Comp
 ## Tech Stack
 
 <div align="center">
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=mail&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-Streaming-6C63FF?style=for-the-badge&logo=apache&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -85,90 +98,7 @@ UI layer for already-deployed APIs · Auth flows · Live data dashboards · Comp
 
 
 
-# Fuad Haque — Software Engineer
 
-I build production FastAPI backends and the Next.js interfaces that make them shippable.
-
----
-
-## Services
-
-**Full-Stack Builds**
-- Portfolio and personal branding sites for developers, designers, and freelancers
-- SaaS landing pages with motion design and conversion-focused layout
-- Interactive marketing microsites with Framer Motion polish
-
-**Backend Systems**
-- Production REST APIs with auth, rate limiting, and async task handling
-- Webhook pipelines for Stripe, GitHub, and Shopify with HMAC verification and idempotency
-- Background task systems with async queues, status polling, and progress tracking
-- JWT/OAuth2 authentication flows with refresh token rotation
-- Third-party integrations that don't break when the upstream service misbehaves
-
-**Frontend for Existing Backends**
-- UI layer for your already-deployed API — forms, auth flows, live data
-- Design system implementation from Figma to Next.js
-- Component libraries for developer tools and internal dashboards
-
-Open to fixed-scope contracts and ongoing retainers.
-Available for international clients via Upwork or direct.
-
----
-
-## Specializations
-
-### Backend Engineering
-- Async request handling (non-blocking I/O with async/await across endpoints)
-- JWT authentication flow (token generation, hashing, expiry, and protected route middleware)
-- OAuth2 password flow implementation (scopes, bearer tokens, dependency injection)
-- HMAC signature verification (validating Stripe/GitHub/Shopify webhook payloads)
-- Idempotency pattern (preventing duplicate processing on retried webhook events)
-- Background task architecture (offloading work from the request cycle)
-- Status polling design (task state machine with client-side progress tracking)
-- Click tracking and link expiry (state management across CRUD operations)
-- Pydantic v2 schema design (request validation, response models, custom validators)
-
-### Frontend Engineering
-- Component architecture (splitting UI into reusable, typed components)
-- Client vs server component model (knowing when to use "use client")
-- Z-index and layering management at scale
-- Viewport-aware drag constraints
-- Keyboard event handling globally (keydown listeners)
-- SSR-safe browser API usage (wrapping window/document in useEffect)
-- Responsive design without a framework (pure breakpoint logic)
-- Performance-conscious animation (RAF-based cursor lerping)
-
-### Design Engineering
-- Design-to-code translation (converting a spec into pixel-perfect components)
-- Typography pairing (serif vs monospace contrast)
-- Color system design with CSS variables
-- Micro-interaction design (cursor states, hover shifts, entry animations)
-- Noise/grain texture implementation via SVG filters
-- Glassmorphism (backdrop-blur + low-opacity borders)
-- Spotlight/lighting effects with radial gradients
-
-### API Design
-- REST endpoint structuring (resource-based routing, HTTP verb semantics)
-- Dependency injection with FastAPI (Depends() for auth, DB sessions, shared logic)
-- OpenAPI documentation (auto-generated Swagger UI from type annotations)
-- Error response standardization (consistent shape across all failure modes)
-
-### Database
-- Async SQLAlchemy ORM (non-blocking DB queries in a FastAPI context)
-- Alembic migration workflow (schema versioning without manual SQL)
-- PostgreSQL in production (provisioned and connected on Railway/Render)
-
-### DevOps & Deployment
-- Git branching and pushing to remote
-- Vercel deployment pipeline (push → auto-deploy)
-- Railway deployment pipeline (environment variables, service provisioning, live logs)
-- Render deployment (cold start behavior, free tier limitations)
-- Multi-service production management (three independent APIs, each live)
-- npm dependency management
-- Local dev server workflow
-- Pytest async test suites (testing endpoints that depend on DB state and auth)
-
----
 
 ## Tech Stack
 
