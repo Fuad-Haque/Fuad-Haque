@@ -190,7 +190,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 <!--                    DEV JOKE / QUOTE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💬 Random Dev Joke
+## 💬 Random Joke
 
 <div align="center">
 
