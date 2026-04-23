@@ -59,7 +59,7 @@ REST APIs · Webhook integrations · Async task queues · AI-powered semantic se
 
 | Project | What it does | Stack | Backend | Frontend |
 |---------|-------------|-------|---------|---------|
-| 🎯 **Portfolio** | Full-stack site · custom cursor · motion · live API | Next.js · FastAPI | [API ↗](https://fuad-portfolio-website.vercel.app/) | [Site ↗](https://fuadhaque.com) |
+| 🌐 **Portfolio** | Full-stack site · custom cursor · motion · live API | Next.js · FastAPI | [API ↗](https://fuad-portfolio-website.vercel.app/) | [Site ↗](https://fuadhaque.com) |
 | 🔗 **URL Shortener** | JWT auth · click tracking · custom aliases · link expiry | FastAPI · Next.js · PostgreSQL | [/docs ↗](https://web-production-5bd50.up.railway.app/docs) | [App ↗](#) |
 | 🪝 **Webhook Inspector** | Stripe/GitHub/Shopify · HMAC · idempotency · real-time dashboard | FastAPI · Next.js · WebSocket | [/docs ↗](https://webhook-handler-production-99e2.up.railway.app/docs) | [Dashboard ↗](#) |
 | ⚙️ **Job Queue Dashboard** | Background jobs · SSE live updates · priority lanes · retry | FastAPI · Next.js · Redis | [/docs ↗](https://task-automation-api-i90w.onrender.com/docs) | [Dashboard ↗](#) |
