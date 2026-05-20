@@ -95,6 +95,9 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
   <a href="https://fuadhaque.com">
     <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/fuadhaque-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-fuadhaque--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://cal.com/fuad-haque/30min?user=fuad-haque&layout=mobile">
     <img src="https://img.shields.io/badge/Book_a_Call-30_Minutes-292929?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
@@ -168,8 +171,8 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF&langs_count=8" />
+<img height="170em" src="https://github-readme-stats-eight-zeta.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-eight-zeta.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF&langs_count=8" />
 
 </div>
 
