@@ -29,8 +29,8 @@
 
 <div align="center">
 
-I build **production FastAPI backends** and the **Next.js interfaces that make them shippable.**<br/>
-Webhook pipelines · Real-time systems · Async task queues · AI-powered semantic search — deployed, documented, and delivered with Swagger docs on day one.
+I build production AI backends — streaming, sessions, cost tracking, auth — and the Next.js interfaces that make them shippable.<br/>
+Token-by-token streaming · Provider-agnostic LLM routing · MCP tool servers · Webhook pipelines · Real-time systems · Async task queues · AI-powered semantic search — deployed, documented, and delivered with Swagger docs on day one.
 
 </div>
 
@@ -109,6 +109,39 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+🛠️ Tech Stack
+<div align="center">
+Backend
+Show Image
+Show Image
+Show Image
+Show Image
+Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Data & Storage
+Show Image
+Show Image
+Show Image
+AI & Embeddings
+Show Image
+Real-time & Communication
+Show Image
+Show Image
+Auth & Security
+Show Image
+Show Image
+Deployment & Tooling
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
 ## 🛠️ Tech Stack
 
