@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+FastAPI+%C2%B7+Next.js;Real-time+Systems+%C2%B7+WebSocket+%C2%B7+SSE;Semantic+Search+%C2%B7+Vector+Embeddings+%C2%B7+Qdrant;I+build+backends+and+the+UIs+that+ship+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Vercel+AI+SDK+%C2%B7+Anthropic+SDK;Real-time+Systems+%C2%B7+WebSocket+%C2%B7+SSE;Semantic+Search+%C2%B7+Vector+Embeddings+%C2%B7+Qdrant;I+build+backends+and+the+UIs+that+ship+them.)](https://git.io/typing-svg)
 
 </div>
 
