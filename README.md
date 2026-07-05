@@ -95,7 +95,7 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
   <a href="https://fuadhaque.com">
     <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/fuadhaque-dev">
+  <a href="https://linkedin.com/in/fuadviews">
     <img src="https://img.shields.io/badge/LinkedIn-fuadhaque--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://cal.com/fuad-haque/30min?user=fuad-haque&layout=mobile">
