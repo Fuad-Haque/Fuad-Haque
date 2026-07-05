@@ -100,7 +100,6 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
   <a href="mailto:fuadhaque.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
   <a href="https://linkedin.com/in/fuadviews">
     <img src="https://img.shields.io/badge/LinkedIn-fuadviews-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
