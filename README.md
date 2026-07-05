@@ -88,23 +88,39 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 | **Real-Time Dashboard** | WebSocket or SSE · live data push · Next.js frontend · no polling |
 | **API Integration** | OpenAI · Stripe · Resend · Twilio · clean async service layer |
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONTACT                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📞 Contact Me Via
+
 <div align="center">
   <a href="mailto:fuadhaque.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-fuadhaque.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://fuadhaque.com">
-    <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/fuadviews">
-    <img src="https://img.shields.io/badge/LinkedIn-fuadhaque--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-fuadviews-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/fuadviews">
+    <img src="https://img.shields.io/badge/X-@fuadviews-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801887885434">
+    <img src="https://img.shields.io/badge/WhatsApp-01887885434-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="tel:+8801887885434">
+    <img src="https://img.shields.io/badge/Mobile-01887885434-4CAF50?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
   <a href="https://cal.com/fuad-haque/30min?user=fuad-haque&layout=mobile">
     <img src="https://img.shields.io/badge/Book_a_Call-30_Minutes-292929?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
+  <a href="https://fuadhaque.com">
+    <img src="https://img.shields.io/badge/Portfolio-fuadhaque.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
 
 ---
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
