@@ -57,7 +57,7 @@ Below: five things running in production right now, and fourteen smaller repos w
 <!--                    HOW THE PIECES FIT                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧩 How the Pieces Fit
+## 👾 How the Pieces Fit
 
 A simplified version of the path a request takes across these systems. Not every live project touches every stage below — this compresses the common pattern across all of them into one flow, rather than depicting one single running app.
 
@@ -100,7 +100,7 @@ The **guard layer** and the **cost ledger** are the two stages most tutorials sk
 <!--                      LIVE PROJECTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🟢 Running in Production
+## 🏗️ Running in Production
 
 Five systems, each reachable right now. Each one has its own Swagger/OpenAPI docs, a `docker-compose.yml`, and a recorded walkthrough of the thing actually working.
 
@@ -197,7 +197,7 @@ Fourteen separate repos start to repeat themselves after a while. Here's what th
 <!--                      TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ What I Actually Reach For
+## 🛠️ Tech Stack
 
 Grouped by how often it's in the loop, not by category — everything in the first group shows up in nearly every repo above; the second group is real production experience that comes up when the problem calls for it.
 
@@ -248,7 +248,7 @@ Grouped by how often it's in the loop, not by category — everything in the fir
 <!--                    GITHUB STATISTICS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 The Numbers, for What They're Worth
+## 🎓 Statistics
 
 Commit graphs measure activity, not judgment — the fourteen repos above are the better signal. These are here because they're the part of a profile people expect to see, not because a streak counter proves anything about engineering quality.
 
