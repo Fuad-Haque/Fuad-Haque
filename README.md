@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=23&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=720&lines=Backend+engineer+working+in+the+LLM+layer;Streaming%2C+retries%2C+cost+math%2C+agent+loops;Sylhet%2C+Bangladesh+%E2%80%94+UTC%2B6%2C+ships+on+EST%2FCET+time;Fourteen+repos%2C+every+one+of+them+runnable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Vercel+AI+SDK+%C2%B7+Anthropic+SDK;Real-time+Systems+%C2%B7+WebSocket+%C2%B7+SSE;Semantic+Search+%C2%B7+Vector+Embeddings+%C2%B7+Qdrant;I+build+AI+backends+and+also+the+UIs+that+ship+them.)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,8 +29,7 @@
 
 <div align="center">
 
-Most of what breaks in AI products isn't the model call — it's everything wrapped around it. What happens when the client closes the tab mid-stream. Whether a retry storm makes an outage worse. Whether the bill at the end of the month matches what actually got billed. That's the layer I work in.<br/>
-Below: five things running in production right now, and fourteen smaller repos where I picked one failure mode and built until I understood it.
+I build production AI backends — streaming, sessions, cost tracking, auth — and the Next.js interfaces that make them shippable.<br/>Token-by-token streaming · Provider-agnostic LLM routing · MCP tool servers · Webhook pipelines · Real-time systems · Async task queues · AI-powered semantic search — deployed, documented, and delivered with Swagger docs on day one.
 
 </div>
 
