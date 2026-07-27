@@ -250,18 +250,10 @@ Grouped by how often it's in the loop, not by category — everything in the fir
 
 ## 🎓 Statistics
 
-Commit graphs measure activity, not judgment — the fourteen repos above are the better signal. These are here because they're the part of a profile people expect to see, not because a streak counter proves anything about engineering quality.
-
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=Fuad-Haque&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=E6E6EF&include_all_commits=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats-three-omega-56.vercel.app/api/top-langs/?username=Fuad-Haque&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=E6E6EF&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fuad-Haque&theme=transparent&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=E6E6EF&dates=8888AA" />
 
 </div>
 
